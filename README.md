@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @QLNH9491
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning Phyton 
-- 💞️ I’m looking to collaborate on Bilsem
-- 📫 How to reach me idk
+QLNH_9491
+
+Bilsem'de çalışıyor
+Falan filan 
 
 <!---
 QLNH9491/QLNH9491 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
